@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👨‍💻 Eu sou Henry Kaio Jackowski 💻
 
-<!--
-**HenryyKaio/HenryyKaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Henry Kaio Jackowski e estou cursando o curso técnico em Desenvolvimento de Sistemas no IFPR campus foz do iguaçu, aprendendo a ser um desenvolvedor FullStack.
 
-Here are some ideas to get you started:
+<div>
+<a href="https://www.instagram.com/hkaiojack/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:henr.educ13@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+### Minhas Linguagens e tecnologias 
+
+<div><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="60px" >
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" height="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60px">
+</div>
+
+##
+
+### Estatísticas
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HenryyKaio&custom_title=Minhas%20estat%C3%ADsticas%3A&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=HenryyKaio&custom_title=Minhas%20estat%C3%ADsticas%3A&show_icons=true&include_all_commits=true&theme=radical)
+&nbsp;&nbsp; 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=HenryyKaio&layout=donut&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=HenryyKaio&layout=donut&langs_count=5&theme=radical)
+
+##
+
+
