@@ -6,7 +6,7 @@ Me chamo Henry Kaio Jackowski e estou cursando o curso técnico em Desenvolvimen
 <a href="https://www.instagram.com/hkaiojack/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   &nbsp;
   <a href="mailto:henr.educ13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ;&nbsp;
+  &nbsp;
 </div>
 
 ##
