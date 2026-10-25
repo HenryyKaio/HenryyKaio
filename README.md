@@ -1,4 +1,4 @@
-## 👨‍💻 Eu sou Henry Kaio Jackowski 💻
+## 👨‍💻 Eu sou o Henry 💻
 
 Me chamo Henry Kaio Jackowski e estou cursando o curso técnico em Desenvolvimento de Sistemas no IFPR campus foz do iguaçu, aprendendo a ser um desenvolvedor FullStack.
 
