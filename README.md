@@ -30,9 +30,12 @@ Me chamo Henry Kaio Jackowski e estou cursando o curso técnico em Desenvolvimen
 ##
 
 ### Estatísticas
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=HenryyKaio&theme=dracula&headerStyle=mac)](https://github.com/HenryyKaio)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HenryyKaio&custom_title=Minhas%20estat%C3%ADsticas%3A&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=HenryyKaio&custom_title=Minhas%20estat%C3%ADsticas%3A&show_icons=true&include_all_commits=true&theme=radical)
 &nbsp;&nbsp; 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=HenryyKaio&layout=donut&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=HenryyKaio&layout=donut&langs_count=5&theme=radical)
+
 
 ##
 
